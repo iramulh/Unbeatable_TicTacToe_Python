@@ -12,5 +12,5 @@ Needs the image folder to run.
 Requires both the console and output windows.
 ## Additional Information
 The original images folder has been split for upload purposes. 
-Combine "images1," "images2," and "images3" into a new folder named "images" to run properly.
+Combine "images1," "images2," and "images3" into the folder named "images" to run properly.
 ### Iram Ullah 2023
