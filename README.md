@@ -8,5 +8,5 @@ Handrawing aesthetic.
 Play again. 
 Quit.
 ## Requirements
-Needs the image file to run.
+Needs the image folder to run.
 ### Iram Ullah 2023
