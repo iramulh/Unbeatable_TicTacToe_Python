@@ -6,5 +6,7 @@ Advanced bot logic.
 Beautiful gameboards. 
 Handrawing aesthetic. 
 Play again. 
-Quit. 
+Quit.
+## Requirements
+Needs the image file to run.
 ### Iram Ullah 2023
