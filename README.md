@@ -11,5 +11,5 @@ Quit.
 Needs the image folder to run.
 ## Additional Information
 The original images folder has been split for upload purposes. 
-Combine into a new folder named "images" to run properly.
+Combine "images1" and "images2" into a new folder named "images" to run properly.
 ### Iram Ullah 2023
